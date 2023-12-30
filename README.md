@@ -1,3 +1,7 @@
+# tailwindcss-nikeclone
+
+A clone website of Nike brand to understand the components of TailwindCSS using ReactJS
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
